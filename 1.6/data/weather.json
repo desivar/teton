@@ -1,15 +1,45 @@
 {
-  "coord": { "lon": -111.6777, "lat": 43.8866 },
-  "weather": [{ "id": 803, "main": "Clouds", "description": "broken clouds", "icon": "04d" }],
-  "base": "stations",
-  "main": { "temp": 61.5, "feels_like": 60.13, "temp_min": 58.53, "temp_max": 65.17, "pressure": 1020, "humidity": 59 },
-  "visibility": 10000,
-  "wind": { "speed": 3.44, "deg": 80 },
-  "clouds": { "all": 75 },
-  "dt": 1685842844,
-  "sys": { "type": 1, "id": 5735, "country": "US", "sunrise": 1685792794, "sunset": 1685847808 },
-  "timezone": -21600,
-  "id": 5609169,
-  "name": "Sugar City",
-  "cod": 200
+    "coord": {
+        "lon": -0.1257,
+        "lat": 51.5085
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 302.49,
+        "feels_like": 302.76,
+        "temp_min": 300.85,
+        "temp_max": 303.58,
+        "pressure": 1016,
+        "humidity": 46,
+        "sea_level": 1016,
+        "grnd_level": 1012
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.12,
+        "deg": 130
+    },
+    "clouds": {
+        "all": 34
+    },
+    "dt": 1721388188,
+    "sys": {
+        "type": 2,
+        "id": 268730,
+        "country": "GB",
+        "sunrise": 1721361970,
+        "sunset": 1721419625
+    },
+    "timezone": 3600,
+    "id": 2643743,
+    "name": "London",
+    "cod": 200
 }
